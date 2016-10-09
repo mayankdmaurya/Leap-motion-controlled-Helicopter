@@ -10,3 +10,8 @@ The leap motion translates hand motions into servo movements for the Arduino to 
 <img src="layout.png" width="350"/>
 
 Addtionally the arduino is set up as the diagram below, with connections to three servos.
+
+<img src="arduinosetup.jpg" width="350"/> 
+Credits to http://marc-tetrapod.blogspot.sg/2012/10/arduino-ssc-32-servo.html for the image.
+
+
